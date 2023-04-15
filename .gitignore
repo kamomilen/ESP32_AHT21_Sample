@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Custom
+.pio
+.vscode
+lib/AHT21-Library/AHT21.cpp
+lib/AHT21-Library/AHT21.h
